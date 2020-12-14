@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "emulator-5554",
         "name": "com.DefaultCompany.GAME2014A2P1",
-        "processId": 2539,
+        "processId": 2818,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -18,6 +18,18 @@
             "deviceId": "emulator-5554",
             "name": "com.DefaultCompany.GAME2014A2P1",
             "processId": 2539,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.DefaultCompany.GAME2014A2P1",
+            "processId": 3501,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.DefaultCompany.GAME2014A2P1",
+            "processId": 2818,
             "exited": false
         }
     ],
